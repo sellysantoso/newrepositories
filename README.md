@@ -1,0 +1,2 @@
+# newrepositories
+delete others
